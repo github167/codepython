@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/github167/codepython/issues"
   },
-  "homepage": "https://github.com/github167/codepython#readme"
+  "homepage": "https://github.com/github167/codepython#readme",
+  "dependencies": {
+    "uppercase": "^2.0.0-beta.23"
+  }
 }
