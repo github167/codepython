@@ -1,0 +1,5 @@
+{
+  "name": "My Custom Project",
+  "image": "://microsoft.com",
+  "postCreateCommand": ""
+}
