@@ -1,9 +1,4 @@
 {
-  "name": "Python 3 Development",
-  "image": "://microsoft.com",
-  "features": {
-    "ghcr.io/devcontainers/features/github-cli:1": {}
-  },
-  "postCreateCommand": "pip install --upgrade pip && pip install -r requirements.txt",
-  "forwardPorts": [5000]
+  "name": "Minimal Codespace",
+  "image": "mcr.microsoft.com/devcontainers/universal:2"
 }
