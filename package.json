@@ -1,0 +1,21 @@
+{
+  "name": "codepython",
+  "version": "1.0.0",
+  "description": "",
+  "main": "jsapp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/github167/codepython.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/github167/codepython/issues"
+  },
+  "homepage": "https://github.com/github167/codepython#readme"
+}
